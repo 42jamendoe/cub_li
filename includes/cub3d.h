@@ -51,13 +51,13 @@
 # define TEXTURE_HEIGHT 64
 
 // KEYS -----------------------------------------------------------------------
-# define UP 13
-# define LEFT 0
-# define DOWN 1
-# define RIGHT 2
-# define ROT_LEFT 12
-# define ESCAPE 53
-# define ROT_RIGHT 14
+# define UP 119
+# define LEFT 97
+# define DOWN 115
+# define RIGHT 100
+# define ROT_LEFT 65361
+# define ESCAPE 65307
+# define ROT_RIGHT 65363
 
 // KEY_STATUS -----------------------------------------------------------------
 # define KEY_RELEASED 0
